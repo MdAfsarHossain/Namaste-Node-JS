@@ -6,7 +6,7 @@ function calculateSum(a, b) {
   console.log(sum);
 }
 
-console.log(module.exports); // {} It's means empty
+console.log(module.exports); 
 
 module.exports = {
   x,
